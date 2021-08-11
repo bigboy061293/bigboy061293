@@ -1,20 +1,18 @@
+# Front page of a *full stack hardware developer 
 
-### Front page of a full stack developer 👋
+<div style="text-align: left">*never heard about this? - let's check below </div>
 
+# :gear:  :gear: :gear: :gear: :gear: :gear: 
 
-## I'm both engineer and maker!
+ 
+
+### I'm both engineer and maker!
 
 - 🔭 I am an electrical engineer who can code and build stuff!!!
 - 🌱 I’m currently be a drone developer
 - 👯 I’m looking to collaborate with remote clients
-- ⚡ Fun fact: I love photography and art
+- :camera: I love photographing and art
 
-### Project sites:
-
- - [Cubesat and ADCS system](https://sites.google.com/view/bbcubesat)
- - [Satellite Ground Station](https://sites.google.com/view/satgndstat)
-
-<br />
 
 ###  I < speak > these languages:
 
@@ -49,21 +47,22 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
 
+<br />
 
+### I "live" in these environment:
 
+<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 
+<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/1200px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" />
 
-<!--
-**bigboy061293/bigboy061293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+### Projects sites and repos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [Cubesat and ADCS system](https://sites.google.com/view/bbcubesat) :satellite:
+ - [Satellite Ground Station](https://sites.google.com/view/satgndstat) :satellite:
+ - Web scraping
+ - Drone navigation, obstacle avoidance using Mavlink
+ - Structural drone build from A to Z
+ 
+<br />
