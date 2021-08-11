@@ -3,9 +3,12 @@
 # Front page of a *full stack hardware developer 
 
 
-<div style="text-align: right">*never heard about this? - let's check below </div>
+```
+<div style="text-align: right"> your-text-here </div>
+```
 
-:gear:  :gear: :gear: :gear: :gear: :gear: :gear:  :gear: :gear: :gear: :gear: :gear:  
+
+ :gear:  :gear: :gear: :gear: :gear: :gear: :gear:  :gear: :gear: :gear: :gear: :gear:  
 
  
 
